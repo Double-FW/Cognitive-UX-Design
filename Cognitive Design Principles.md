@@ -1,8 +1,8 @@
-# Cognitive Design Principles
+# 10 Cognitive Design Principles
 
 Cognitive design as a practice came out of studies in user interaction with consumer products in the 1970s, and by the 80s their use was commonplace in the product design industry. Parts of these principles have transferred into the digital space as “Usability Heuristics” but they have an issue. They are like all the other principal frameworks; they are relevant but only from a rather neurotypical perspective. Why? Because they predate the recent upsurge in interest and appreciation of neurodiversity within user groups.
 
-## Standard Elements
+## 1. Standard Elements
 
 Many user errors are actually caused by design inconsistencies in how things work, so ensure that similar elements work the same way. Standard design patterns help prevent errors which is why design systems, design conventions, and web standards are so important.
 
@@ -10,7 +10,7 @@ Users should not have to re-learn the interactions of common tasks locally when 
 
 All functional designs should have audio and visual consistency from both interactive and informational perspectives.
 
-## Affordances and Signifiers
+## 2. Affordances and Signifiers
 
 An affordance is a perceived way in which an element will behave when interacted with. Not all affordances are intentionally designed.
 
@@ -22,13 +22,13 @@ The concept of both affordances and Signifiers are closely related to that of a 
 
 There should always be a strong relationship between the perception of the need to take any action and the action itself.
 
-## Simplicity
+## 3. Simplicity
 
 There is such a thing as too much information and this can either be an issue of volume, or information provided in too complex a fashion. In general, visual and UX design best practice strives to simplify both presentation and interactions.
 
 Clutter divides attention and increases cognitive load reducing user response time and accuracy.
 
-## Clear Communication
+## 4. Clear Communication
 
 Another common problem is caused by a user not being able to identify or interpret a message.
 
@@ -44,7 +44,7 @@ Interpretation is key when displaying errors. The technical information is impor
 
 Choose an accessible typeface too… not one that says it is “accessible”. For more information see my previous article
 
-## Redundancies
+## 5. Redundancies
 
 Sometimes one message or mode of interaction is insufficient. Because mistakes are easy to make and humans have many limitations, it is important to consider the provision of the same information in more than one way and in more than one place. If the user misses or cannot access one cue, they pick up on another.
 
@@ -54,17 +54,17 @@ Redundancy is not just information but also interaction modes such as point, sp
 
 Every system needs the flexibility to support the needs of both novice and expert users, but flexibility should also extend to users with different cognitive requirements such as styles of learning, communication and control.
 
-## Patterns
+## 6. Patterns
 
 Humans can be pretty good at spotting and grasping the purpose of patterns. Information presented as a pattern can be understood quickly and accurately whereas if there is no obvious structure or hierarchy people can become confused. In this way grouping information, content, or controls in related outcomes, subjects or functions aids user engagement. Similarly, placing elements in patterns or in a specific context will help indicate to the user what to do.
 
 Patterns enable people to learn, relate and engage as their comprehension is built upon all previous interactions with particular products or services.
 
-## Recognition Rather than Recall
+## 7. Recognition Rather than Recall
 
 Most users can build up a mental map and understanding of a system to enable them to use it ever more efficiently however some users neither have the short or long-term memory to be able to support this. Make objects, actions, and options obvious and persistent so the user is not dependant on having to remember information from. Help and instruction should be easily identifiable, contextual and easily retrievable, and if user error is persistent a system should be able to detect when a user needs help or advancement.
 
-## Variable Stimuli and the Pop-Out Effect
+## 8. Variable Stimuli and the Pop-Out Effect
 
 All humans detect an occasional novel stimulus more readily than a constant one because our senses fatigue easily with continuous exposure.
 
@@ -72,7 +72,7 @@ Terms and Conditions or warnings are notorious for being overlooked since they
 
 This is also important to consider when introducing a new proposition or an extension to the provision of an existing service. Unearthing and exposing underused functionality that adds benefit to a user is also important if people bypass something that could be of use to them later.
 
-## Feedback and Notification
+## 9. Feedback and Notification
 
 As a general rule the sooner and clearer feedback is given, the easier it is to determine if an error has been made or not.
 
@@ -82,7 +82,7 @@ As products and platforms can have multiple background applications running, no
 
 Notifications shouldn’t compete with each other for attention but instead should uniquely identify themselves in each communication mode.
 
-## User Control and Choice
+## 10. User Control and Choice
 
 Products should always be designed in a way that enables users to choose how they control the interface and what mode they wish to consume content.
 
