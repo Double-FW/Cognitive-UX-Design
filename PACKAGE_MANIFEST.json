@@ -1,0 +1,144 @@
+{
+  "package": "Cognitive UX repository document pack",
+  "version": "1.0-draft",
+  "date": "2026-11-05",
+  "baseline_commit": "f3432fce3b1f4dba15c8453621f67b4e75c5c619",
+  "publication": "not published by this task",
+  "product_evaluation": "not executed",
+  "checksums_exclude": "PACKAGE_MANIFEST.json",
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "size_bytes": 2945,
+      "sha256": "391bda4377414c24649d20bfd422840f0de07f3dab56bff4811fc9fe60849c3a",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "Cognitive Design Principles.md",
+      "size_bytes": 9447,
+      "sha256": "efcbb47244842c7e78c1333f071fe215b8360b406f8f1447827e1706c10b29c0",
+      "baseline_blob_sha": "f7fc0c941eee8d28741b009db9d8082e07f092e1",
+      "change_type": "revised"
+    },
+    {
+      "path": "Cognitive_Accessibility_User_Research_and_Data_Plan.md",
+      "size_bytes": 49185,
+      "sha256": "10d731703bdecf359dfd1c3b10c62211c7026be7dfc1d62dcc150332126c7267",
+      "baseline_blob_sha": "885fdd3ab78e899a52e8cceba5b1f31edecd9772",
+      "change_type": "revised"
+    },
+    {
+      "path": "Cognitive_Science_Evidence_Register.md",
+      "size_bytes": 10667,
+      "sha256": "2b8a8af5aa59c29677782b3d0d3e4daaa6c15479ac3e7027295d82d0d3e9296c",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "Cognitive_UX_Coverage_and_Delivery_Map.md",
+      "size_bytes": 17012,
+      "sha256": "c3ede9a2a6d5d285219a42d8527341ceabb5e99d017c0a8e6900e5507335ab56",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "Cognitive_UX_Design_and_Evidence_Template.md",
+      "size_bytes": 6488,
+      "sha256": "047273bbcb4cdc9074cd8ebbec8ffb40a54c4a8f28988003ca55ba0f170ad72f",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "Cognitive_UX_Principles_QA_Evidence_Matrix.md",
+      "size_bytes": 51794,
+      "sha256": "18e60c6e9be97f0b028365fc6eb2bdc0565fe46685a9e912e4b9a2ff5c150aad",
+      "baseline_blob_sha": "fd22393068792aa2b68f73864d09de9482547d3c",
+      "change_type": "revised"
+    },
+    {
+      "path": "Cognitive_UX_Ten_Principles_Memory_and_Evidence_Gap_Review.md",
+      "size_bytes": 31265,
+      "sha256": "7663532eed550092dff9b370622ec170ea215b1b91721525c8182c1aebf31434",
+      "baseline_blob_sha": null,
+      "change_type": "historical copy"
+    },
+    {
+      "path": "Familiarity_Comprehension_and_Confidence.md",
+      "size_bytes": 8690,
+      "sha256": "574fa8e746e9f757ac88fdbce21c33a468934e3bc3126d702407ef631766ad7a",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "Interference_Source_Memory_and_Current_Context.md",
+      "size_bytes": 8686,
+      "sha256": "412e3e9352225d031a4478c8e87cf14fc8f70b68e5aad05ad5d4414d0a6a2d21",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "Interruption_Recovery_and_Task_Continuity.md",
+      "size_bytes": 8848,
+      "sha256": "a991ea4b11d89d0cab6a5a62beb8372b836685f80bd5b1dca8249aa809a49447",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "LICENSE",
+      "size_bytes": 1066,
+      "sha256": "7ef02bc0b6ba376de57be5f27784eef23df6a74068a4a2a172f95ba2c605b7af",
+      "baseline_blob_sha": "3149d6917c830929b7a4b29366a0ab796207731c",
+      "change_type": "preserved"
+    },
+    {
+      "path": "Learning_Redesign_and_Returning_Users.md",
+      "size_bytes": 8785,
+      "sha256": "d5cdf5c276e424a837c30377db74294d164f30281533f5bd02e6bf865d661280",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "PACKAGE_NOTES.md",
+      "size_bytes": 3681,
+      "sha256": "d332d50211884a89da1aff28d0c2c5dbad37bf0f6db1c5b3467c4e9f914b14ba",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "Prospective_Memory_and_Reliable_Memory_Aids.md",
+      "size_bytes": 8876,
+      "sha256": "e9703db56d4d2559b5ab0783299eb0b5d7a39a799aa68ba1a552acbf7218fc9a",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 4507,
+      "sha256": "988866dc07343e416421f6ae7b9e67d89d26ff4a5355d0e4eb2815e284b5ea5f",
+      "baseline_blob_sha": "4a79ddea437021c06ed30819ead477b3ddb94d4f",
+      "change_type": "revised"
+    },
+    {
+      "path": "VALIDATION_REPORT.md",
+      "size_bytes": 1829,
+      "sha256": "98cc29e14bc0d1507030434bc08c80d8094be6b2585a3d001e6584c5f88152d8",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    },
+    {
+      "path": "Vision_Memory_and_Cognitive_Screen_Reader_UX.md",
+      "size_bytes": 49197,
+      "sha256": "1d78a05209b9f5ea4ccdf282b19e111d5f8b7580384baf248f13a353b46f9b7d",
+      "baseline_blob_sha": "ff6541b1dd3ea3d765a55270986a15c846cf150c",
+      "change_type": "revised"
+    },
+    {
+      "path": "Warnings_Habituation_and_Notification_Management.md",
+      "size_bytes": 8925,
+      "sha256": "a8e8eb5e8dc551a0db7cc9b1ad79997c2e2626a4ade17938b5ed18859780bcdd",
+      "baseline_blob_sha": null,
+      "change_type": "new"
+    }
+  ]
+}
