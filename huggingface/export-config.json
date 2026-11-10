@@ -1,0 +1,61 @@
+{
+  "source_repository": "Double-FW/Cognitive-UX-Design",
+  "destination_dataset": "GarethFW/Cognitive_UX_Design",
+  "dataset_version": "1.0.0",
+  "files": [
+    "AGENTS.md",
+    "CHANGELOG.md",
+    "Cognitive Design Principles.md",
+    "Cognitive_Accessibility_User_Research_and_Data_Plan.md",
+    "Cognitive_Science_Evidence_Register.md",
+    "Cognitive_UX_Coverage_and_Delivery_Map.md",
+    "Cognitive_UX_Design_and_Evidence_Template.md",
+    "Cognitive_UX_Principles_QA_Evidence_Matrix.md",
+    "Cognitive_UX_Ten_Principles_Memory_and_Evidence_Gap_Review.md",
+    "Familiarity_Comprehension_and_Confidence.md",
+    "Interference_Source_Memory_and_Current_Context.md",
+    "Interruption_Recovery_and_Task_Continuity.md",
+    "Learning_Redesign_and_Returning_Users.md",
+    "PACKAGE_MANIFEST.json",
+    "PACKAGE_NOTES.md",
+    "Prospective_Memory_and_Reliable_Memory_Aids.md",
+    "README.md",
+    "VALIDATION_REPORT.md",
+    "Vision_Memory_and_Cognitive_Screen_Reader_UX.md",
+    "Warnings_Habituation_and_Notification_Management.md"
+  ],
+  "required_files": [
+    "AGENTS.md",
+    "Cognitive Design Principles.md",
+    "Cognitive_Accessibility_User_Research_and_Data_Plan.md",
+    "Cognitive_Science_Evidence_Register.md",
+    "Cognitive_UX_Coverage_and_Delivery_Map.md",
+    "Cognitive_UX_Design_and_Evidence_Template.md",
+    "Cognitive_UX_Principles_QA_Evidence_Matrix.md",
+    "Familiarity_Comprehension_and_Confidence.md",
+    "Interference_Source_Memory_and_Current_Context.md",
+    "Interruption_Recovery_and_Task_Continuity.md",
+    "Learning_Redesign_and_Returning_Users.md",
+    "Prospective_Memory_and_Reliable_Memory_Aids.md",
+    "README.md",
+    "Vision_Memory_and_Cognitive_Screen_Reader_UX.md",
+    "Warnings_Habituation_and_Notification_Management.md",
+    "LICENSE"
+  ],
+  "archive_files": [
+    "CHANGELOG.md",
+    "PACKAGE_NOTES.md",
+    "VALIDATION_REPORT.md",
+    "PACKAGE_MANIFEST.json",
+    "Cognitive_UX_Ten_Principles_Memory_and_Evidence_Gap_Review.md"
+  ],
+  "practical_guides": [
+    "Prospective_Memory_and_Reliable_Memory_Aids.md",
+    "Interruption_Recovery_and_Task_Continuity.md",
+    "Interference_Source_Memory_and_Current_Context.md",
+    "Familiarity_Comprehension_and_Confidence.md",
+    "Learning_Redesign_and_Returning_Users.md",
+    "Warnings_Habituation_and_Notification_Management.md"
+  ],
+  "approved_license_sha256": "7ef02bc0b6ba376de57be5f27784eef23df6a74068a4a2a172f95ba2c605b7af"
+}
