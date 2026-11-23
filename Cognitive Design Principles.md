@@ -37,6 +37,8 @@ Apply the [screen-reader UX guide](Vision_Memory_and_Cognitive_Screen_Reader_UX.
 
 Make important information noticeable, distinguishable and interpretable. Use legible text, meaningful structure, appropriate contrast and clear relationships. Choose wording, examples and representations that support the intended decision, and keep essential instructions retrievable.
 
+For identifiers and long strings, use context-appropriate grouping where it helps accurate reading and entry, and distinguish easily confused glyphs such as `I`, `l` and `1`, or `O` and `0`, where the underlying value permits. Preserve the actual value and check how it is presented, selected and announced; grouping or font choice must not change its meaning.
+
 Errors should identify the issue and a practical remedy without blame or loss of valid work. Separate reading accuracy, understanding, confidence and preference. Explain whether information is current, estimated, pending or superseded where that distinction affects the task.
 
 Apply [comprehension/confidence guidance](Familiarity_Comprehension_and_Confidence.md) and [source/context guidance](Interference_Source_Memory_and_Current_Context.md); see CUX-10–13.
