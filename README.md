@@ -44,3 +44,11 @@ Publication of guidance closes an editorial action only. It cannot supply missin
 Use stable IDs, source revisions and human review. Update the owner document first, then its mappings and dependent examples. Reassess affected cases after a component, policy, paper or source change. Assign named maintainers before publishing an approved release; record the actual published commit and date.
 
 The existing [licence](LICENSE) is retained unchanged in this pack. See package notes for installation and baseline information.
+
+## About the author
+
+Gareth Ford Williams is a senior leader in accessibility and inclusive design and co-founder of Double FW Ltd. His work spans accessibility, UX, technical standards, assistive technology and inclusive media. At the BBC, he led accessibility and UX work and chaired standards governance, translating research and policy into practical guidance.
+
+## About Double FW Ltd
+
+Double FW Ltd is a UK accessibility and inclusive design consultancy. It helps organisations build accessibility into strategy, governance, brands, products, content and services. Its public repositories provide practical guidance for people and AI-assisted workflows.
